@@ -1,0 +1,39 @@
+body{
+	background-color:#669999;
+	
+}
+.main{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	border-radius: 4%;
+	margin: 5%;
+	padding: 2%;
+	background:radial-gradient(#669999,black);
+}
+.left{
+	/*width: 80%;*/
+	background-color:#ff6600;
+	font-size: 100%;
+	padding: 3%;
+	height:50%;
+	margin: 1%;
+	border-radius: 5%;
+	margin-bottom: 3%;
+	/*justify-content: space-around;*/
+	box-shadow: 2px 2px 2px 2px;
+}
+.right{
+	font-size: 100%;
+	padding: 3%;
+	padding-bottom: 5%;
+	width: 40%;
+	background-color:#ff6600;
+	margin: 1%;
+	margin-bottom: 5%;
+	border-radius: 5%;
+	box-shadow: 2px 2px 2px 2px;
+
+
+
+}
